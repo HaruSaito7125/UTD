@@ -1,10 +1,12 @@
 [
-  {
-    "DisplayName":"HaruSaito";
-    "HoverName":"Gustavo Martins";
-    "WorkDone":{
-      "English":"Programmer and Artist";
-      "Portuguese":"Programador e Artista"};
-    "Image":""
-  }
+	{
+		"DisplayName":"HaruSaito",
+		"HoverName":"Gustavo Martins",
+		"WorkDone":
+      {
+			  "English":"Programmer and Artist",
+			  "Portuguese":"Programador e Artista"
+      },
+		"Image":""
+	}
 ]
