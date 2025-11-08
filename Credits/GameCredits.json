@@ -5,5 +5,33 @@
 		"WorkDone":{
 			"English":"Programmer and Artist",
 			"Portuguese":"Programador e Artista"}
-	}
+	},
+	{
+		"DisplayName":"Thaigo",
+		"HoverName":"Thiago da Rocha",
+		"WorkDone":{
+			"English":"General Assistant",
+			"Portuguese":"Ajudante Geral"}
+	},
+	{
+		"DisplayName":"Heitor",
+		"HoverName":"Heitor de Oliveira",
+		"WorkDone":{
+			"English":"General Contributor",
+			"Portuguese":"Colaborador Geral"}
+	},
+	{
+		"DisplayName":"Casão",
+		"HoverName":"Gabriel Bestetti",
+		"WorkDone":{
+			"English":"General Contributor",
+			"Portuguese":"Colaborador Geral"}
+	},
+	{
+		"DisplayName":"Cafeh",
+		"HoverName":"Rafael Cavaglieri",
+		"WorkDone":{
+			"English":"General Contributor",
+			"Portuguese":"Colaborador Geral"}
+	},
 ]
