@@ -2,11 +2,14 @@
   
   "English":{
     "LanguageLabel":"Select your preferred language",
-    "LanguageDropdown":
-    [
-      "English",
-      "Portuguese"
-    ]
+    "LanguageDropdown":[
+        "English",
+        "Portuguese"
+      ],
+    "ConfigPopupButtons":{
+      "Confirm":"Confirm",
+      "Cancel":"Cancel"
+    }
   },
   
   "Portuguese":{
@@ -14,7 +17,11 @@
     "LanguageDropdown":[
       "Inglês",
       "Português"
-    ]
+      ],
+    "ConfigPopupButtons":{
+      "Confirm":"Confirmar",
+      "Cancel":"Cancelar"
+    }
   }
   
 }
