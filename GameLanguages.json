@@ -1,20 +1,20 @@
 {
+  
   "English":{
-    "Language":"Select your preferred language",
-    "LanguageDropdown":{
-      [
-        "English",
-        "Portuguese"
-      ]
-    },
-  }
+    "LanguageLabel":"Select your preferred language",
+    "LanguageDropdown":
+    [
+      "English",
+      "Portuguese"
+    ]
+  },
   
   "Portuguese":{
-    "Language":"Selecione o idioma de sua preferência",
-    "LanguageDropdown":{
-      [
-        "Inglês",
-        "Português"
-      ]
+    "LanguageLabel":"Selecione o idioma de sua preferência",
+    "LanguageDropdown":[
+      "Inglês",
+      "Português"
+    ]
   }
+  
 }
