@@ -3,13 +3,15 @@
   "English":{
     "LanguageLabel":"Select your preferred language",
     "LanguageDropdown":[
-        "English",
-        "Portuguese"
+      "English",
+      "Portuguese"
       ],
     "ConfigPopupButtons":{
       "Confirm":"Confirm",
       "Cancel":"Cancel"
-    }
+      },
+    "MaxFpsLabel":"Set your preferred Max FPS",
+    "AnimationSpeedLabel":"Define your desired animation speed"
   },
   
   "Portuguese":{
@@ -21,7 +23,9 @@
     "ConfigPopupButtons":{
       "Confirm":"Confirmar",
       "Cancel":"Cancelar"
-    }
+      },
+    "MaxFpsLabel":"Defina sua preferência de FPS máximo",
+    "AnimationSpeedLabel":"Defina a velocidade da animação de sua preferência"
   }
   
 }
